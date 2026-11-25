@@ -11,7 +11,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows/pulse)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -58,7 +58,7 @@ A ranked index of leading commercial multi-agent platforms, visual LLM orchestra
 
 A curated catalog of premier open-source multi-agent frameworks, agency persona repositories, visual workflow builders, and generative multimodal engines. Ranked in **descending order by GitHub stargazers**:
 
-| 📦 Repository | 🌟 GitHub Stars | 🏷️ Primary Domain / Tech Stack | 📖 Description & Agency Workflow Focus |
+| 📦 Repository | 🌟 GitHub_Stars | 🏷️ Primary Domain / Tech Stack | 📖 Description & Agency Workflow Focus |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | `TypeScript` • Workflow Automation | Fair-code visual automation platform with native AI agent nodes integrating LLMs with 400+ agency tools (WordPress, Notion, Slack, HubSpot). |
 | **[Firecrawl](https://github.com/firecrawl/firecrawl)** | [![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers) | `TypeScript` • Web Scraping / Extraction | Open-source engine converting entire websites into clean, LLM-ready Markdown for agency competitor research, SEO audits, and content scraping. |
@@ -140,7 +140,7 @@ We welcome additions of emerging multi-agent frameworks, persona packs, and agen
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` following the table format.
-3. 🔗 Include verified links, transparent pricing/free-tier data, and accurate GitHub star badges.
+3. 🔗 Include verified links, transparent pricing/free-tier data, and accurate GitHub Stars_Badges.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
