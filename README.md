@@ -140,7 +140,7 @@ We welcome additions of emerging multi-agent frameworks, persona packs, and agen
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` following the table format.
-3. 🔗 Include verified links, transparent pricing/free-tier data, and accurate GitHub Stars_Badges.
+3. 🔗 Include verified links, transparent pricing/free-tier data, and accurate GitHub_Stars_Badges.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your changes.
 
 ---
