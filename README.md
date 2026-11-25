@@ -6,8 +6,7 @@
 
 ### 🚀 Curated Directory of Autonomous Creative Agency Squads, Multi-Agent Orchestration Frameworks & AI Marketing Production Workflows
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows/pulls)
@@ -157,9 +156,9 @@ If you find this directory helpful for your creative agency, startup, or AI rese
 
 ---
 
-## 📊 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows&Date)
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows&type=date&legend=top-left)`
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Multi-Agent-Systems-Creative-Agency-Workflows&type=date&legend=top-left)`
 
 ---
 
