@@ -8,11 +8,6 @@
     </linearGradient>
 
     <!-- Vibrant Accent Gradients -->
-    <linearGradient id="accent-cyan-purple" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f2fe"/>
-      <stop offset="100%" stop-color="#4facfe"/>
-    </linearGradient>
-
     <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff7eb3"/>
       <stop offset="35%" stop-color="#ff758c"/>
@@ -42,7 +37,7 @@
       </feMerge>
     </filter>
 
-    <!-- Glassmorphic Grid Pattern -->
+    <!-- Blueprint Grid Pattern -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1"/>
     </pattern>
@@ -99,31 +94,29 @@
     }
   </style>
 
-  <!-- Deep Cosmic Background -->
+  <!-- Deep Background -->
   <rect width="1200" height="420" fill="url(#bg-grad)"/>
 
-  <!-- Subtle Blueprint / Flow Grid -->
+  <!-- Blueprint Flow Grid -->
   <rect width="1200" height="420" fill="url(#grid)"/>
 
-  <!-- Ambient Dynamic Glowing Orbs in the Background (will never hide foreground text) -->
+  <!-- Dynamic Glowing Orbs -->
   <circle class="pulse-glow-1" cx="200" cy="80" r="140" fill="#a855f7" filter="url(#glow-purple)"/>
   <circle class="pulse-glow-2" cx="1020" cy="320" r="160" fill="#00f2fe" filter="url(#glow-cyan)"/>
   <circle class="pulse-glow-1" cx="600" cy="380" r="110" fill="#ff0080" filter="url(#glow-purple)" opacity="0.3"/>
 
-  <!-- Background Dynamic Circuit / Workflow Network Diagram (Positioned on the flanks & bottom) -->
+  <!-- Dynamic Workflow Network Diagram -->
   <g opacity="0.45">
-    <!-- Connecting Workflow Bus Lines -->
     <path class="flow-line" d="M 50 340 L 250 340 L 320 375 L 880 375 L 950 340 L 1150 340" fill="none" stroke="#38bdf8" stroke-width="2"/>
     <path class="flow-line" d="M 120 70 L 280 70 L 350 110" fill="none" stroke="#a855f7" stroke-width="1.5"/>
     <path class="flow-line" d="M 850 110 L 920 70 L 1080 70" fill="none" stroke="#ec4899" stroke-width="1.5"/>
 
-    <!-- Subtle Rotating Radar Ring on Top-Right -->
     <circle class="radar-rotate" cx="1050" cy="100" r="65" fill="none" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1.5" stroke-dasharray="8, 12"/>
     <circle class="radar-rotate" cx="1050" cy="100" r="40" fill="none" stroke="rgba(168, 85, 247, 0.3)" stroke-width="1" stroke-dasharray="4, 6"/>
   </g>
 
-  <!-- Floating Dynamic Agent Persona Nodes (Left & Right Flanks) -->
-  <!-- Left Side: Creative Director & Copywriter Nodes -->
+  <!-- Floating Dynamic Agent Persona Nodes -->
+  <!-- Left Side: Creative Director &amp; Copywriter -->
   <g class="agent-card-1" transform="translate(60, 160)">
     <rect width="180" height="46" rx="23" fill="rgba(18, 13, 43, 0.85)" stroke="rgba(168, 85, 247, 0.6)" stroke-width="1.5"/>
     <circle cx="24" cy="23" r="13" fill="#a855f7"/>
@@ -140,12 +133,12 @@
     <text x="50" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7dd3fc">Voice Memory RAG</text>
   </g>
 
-  <!-- Right Side: Visual Designer & Orchestrator Nodes -->
+  <!-- Right Side: Art &amp; Media Gen, Flow Orchestrator -->
   <g class="agent-card-3" transform="translate(960, 160)">
     <rect width="180" height="46" rx="23" fill="rgba(18, 13, 43, 0.85)" stroke="rgba(236, 72, 153, 0.6)" stroke-width="1.5"/>
     <circle cx="24" cy="23" r="13" fill="#ec4899"/>
     <text x="24" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">🎬</text>
-    <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Art & Media Gen</text>
+    <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">Art &amp; Media Gen</text>
     <text x="50" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#f472b6">ComfyUI Pipelines</text>
   </g>
 
@@ -157,7 +150,7 @@
     <text x="50" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" fill="#6ee7b7">Stateful Human-in-Loop</text>
   </g>
 
-  <!-- FOREGROUND: Main Content (Crystal Clear & Perfectly Centered) -->
+  <!-- FOREGROUND: Main Content (Crystal Clear &amp; Perfectly Centered) -->
   <g id="foreground-content">
     <!-- Top Pill Badge -->
     <g transform="translate(435, 52)">
@@ -176,7 +169,7 @@
       Awesome Multi-Agent Systems
     </text>
 
-    <!-- Subtitle (Creative Agency Workflows) -->
+    <!-- Subtitle -->
     <text x="600" y="202" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="700" fill="#f8fafc" text-anchor="middle" letter-spacing="0.2">
       Creative Agency Workflows &amp; AI Squads
     </text>
